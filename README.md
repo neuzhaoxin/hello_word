@@ -1,4 +1,6 @@
 # hello_word
 my first repository
 
-123
+Hi humans!
+I'm a novice programmer. I've only done some competitions and events in C.
+Here, I want to learn more.
